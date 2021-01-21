@@ -1,9 +1,5 @@
 HELLO 
 FIRST FILE
 CHANGES TO THE NEW BRANCH.
-<<<<<<< Updated upstream
-hello
-=======
-hello
-bye
->>>>>>> Stashed changes
+
+
